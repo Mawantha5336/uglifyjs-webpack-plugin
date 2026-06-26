@@ -152,20 +152,7 @@ Default: `/*! For license information please see foo.js.LICENSE */`
 </table>
 
 
-[npm]: https://img.shields.io/npm/v/uglifyjs-webpack-plugin.svg
-[npm-url]: https://npmjs.com/package/uglifyjs-webpack-plugin
 
-[deps]: https://david-dm.org/webpack-contrib/uglifyjs-webpack-plugin.svg
-[deps-url]: https://david-dm.org/webpack-contrib/uglifyjs-webpack-plugin
-
-[chat]: https://img.shields.io/badge/gitter-webpack%2Fwebpack-brightgreen.svg
-[chat-url]: https://gitter.im/webpack/webpack
-
-[test]: https://secure.travis-ci.org/webpack-contrib/uglifyjs-webpack-plugin.svg
-[test-url]: http://travis-ci.org/webpack-contrib/uglifyjs-webpack-plugin
-
-[cover]: https://codecov.io/gh/webpack-contrib/uglifyjs-webpack-plugin/branch/master/graph/badge.svg
-[cover-url]: https://codecov.io/gh/webpack-contrib/uglifyjs-webpack-plugin
 
 [quality]: https://www.bithound.io/github/webpack-contrib/uglifyjs-webpack-plugin/badges/score.svg
 [quality-url]: https://www.bithound.io/github/webpack-contrib/uglifyjs-webpack-plugin
