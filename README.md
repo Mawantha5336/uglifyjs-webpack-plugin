@@ -118,38 +118,6 @@ The `extractComments` option can be
 Default: `/*! For license information please see foo.js.LICENSE */`
 
 
-<h2 align="center">Maintainers</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="150" height="150"
-        src="https://avatars3.githubusercontent.com/u/166921?v=3&s=150">
-        </br>
-        <a href="https://github.com/bebraw">Juho Vepsäläinen</a>
-      </td>
-      <td align="center">
-        <img width="150" height="150"
-        src="https://avatars2.githubusercontent.com/u/8420490?v=3&s=150">
-        </br>
-        <a href="https://github.com/d3viant0ne">Joshua Wiens</a>
-      </td>
-      <td align="center">
-        <img width="150" height="150"
-        src="https://avatars3.githubusercontent.com/u/533616?v=3&s=150">
-        </br>
-        <a href="https://github.com/SpaceK33z">Kees Kluskens</a>
-      </td>
-      <td align="center">
-        <img width="150" height="150"
-        src="https://avatars3.githubusercontent.com/u/3408176?v=3&s=150">
-        </br>
-        <a href="https://github.com/TheLarkInn">Sean Larkin</a>
-      </td>
-    </tr>
-  <tbody>
-</table>
 
 
 
